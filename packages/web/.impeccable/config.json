@@ -1,0 +1,15 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": ["src/styles.css"],
+        "createdAt": "2026-11-25T21:48:06.430Z",
+        "reason": "Claude: L714 is the Markdown blockquote rule (3px neutral --line grey, not an accent colour, not a card) — standard quote typography in rendered chat answers"
+      }
+    ]
+  }
+}
