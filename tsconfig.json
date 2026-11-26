@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.base.json",
+  "include": [
+    "packages/core/src",
+    "packages/core/test",
+    "packages/server/src",
+    "packages/server/test",
+    "packages/cli/src",
+    "scripts",
+    "vitest.config.ts",
+    "eslint.config.js"
+  ]
+}
